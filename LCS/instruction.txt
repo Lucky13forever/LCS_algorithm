@@ -1,0 +1,3 @@
+All functions are called in homework_6.py file
+The actual functions are written in propositional_logic.py
+And the output appears in output.txt
